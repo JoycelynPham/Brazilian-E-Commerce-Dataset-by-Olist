@@ -1,6 +1,10 @@
 # Brazilian-E-Commerce-Dataset-by-Olist
 Data source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
 
+Olist schema
+![image](https://github.com/JoycelynPham/Brazilian-E-Commerce-Dataset-by-Olist/assets/148677481/fd76f96d-32ef-4c0d-b69e-e5201eb7571e)
+
+
 Project Intro/Objective
 
 The purpose of this project is to provide nessesary and important informations for new seller who wish to enter this new online platform in Brazil
