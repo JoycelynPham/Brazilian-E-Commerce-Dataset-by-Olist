@@ -1,6 +1,7 @@
 # Brazilian-E-Commerce-Dataset-by-Olist
 
 ![image](https://github.com/JoycelynPham/Brazilian-E-Commerce-Dataset-by-Olist/assets/148677481/add18cda-9e01-4e28-97f2-94bb3327a03b)
+
 Olist is a Brazilian e-commerce startup marketplace integrator, founded in 2015, with the mission of connecting small businesses to larger product marketplaces to help entrepreneurs sell their products to a larger customer base
 
 # About Dataset
@@ -16,33 +17,21 @@ After a customer purchases the product from Olist Store a seller gets notified t
 ![image](https://github.com/JoycelynPham/Brazilian-E-Commerce-Dataset-by-Olist/assets/148677481/fd76f96d-32ef-4c0d-b69e-e5201eb7571e)
 
 
-Project Intro/Objective
+# Project Objective
 
-The purpose of this project is to provide nessesary and important informations for new seller who wish to enter this new online platform in Brazil
-Clarify 3 main questions for new sellers:
+Due to the limited information in this dataset, the project's goal is to conduct basic analyses on revenue and order trends, the popular product categories, customer and seller performance, as well as delivery time and review scores. Through these analyses, the aim is to provide recommendations for new sellers who wish to enter this online platform.
+The questions to be answered in this project include: 
 
-What to sell ?
-Where are the potential customers ?
-When to sell ?
+- What product categories should be sold? 
+- Where is the potential market? 
+- When should sales occur?
 
-Provide solutions based on these 3 criterias
-
-Methods Used
-
-Machine Learning
-Data Visualization
-
-Technologies
+# Techniques:
 
 Python
 Pandas, Seaborn, Matplotlib
-LDA model
-Bag of Word
-Google trans
-Project Description
 
-The data of this project came from kaggle (Brazilian E-Commerce Public Dataset by Olist). Our team firstly formed a big question about what are the product that were becoming popular as well as those that received fewer support by customers. Nevertheless, we then redirected our big questions into helping new sellers who try to join this online platflorm and used the original big question as a key point to help answer the new question. We firstly try to apply data cleaning and then do some visualizations on finding top trending products. Then we draw charts and defined specific time zone in which customers paid the most and lastly we analyzed comments left by customers in order to find out what are the problems customer usually criticised about.
+# Insights and recommendations:
 
-Throughout the entire project, we used various of techniques in visualizing as well as cleaning / selecting relavants columns from the dataset such as seaborn countplot, pivot table, convert long from to wide form, etc. Furthermore, we also used scikit learn to apply machine learning for analyzing comments, grouping comments into top 10 topics and defined top mentioned term. For example: I still received product, I did not recieve the product, etc.
-
-The big problems we had is to define the big question and find key ideas to support it. Not only did the big question need to be attractive and realistic, but also the key ideas to support it had to be indepth and clearness.
+# Challenge:
+The challenge I faced is a lack of domain knowledge, and the dataset is too broad to analyze in order to define the main question and find key ideas to support it.
