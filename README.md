@@ -31,7 +31,20 @@ The questions to be answered in this project include:
 Python
 Pandas, Seaborn, Matplotlib
 
-# Insights and recommendations:
+# Insights:
+
+- 'bed_bath_table' and 'watches_gifts' are the top popular product categories with high order volumnes and relatively low seller competition. This indicates ongoing potential in these categories.
+
+- The majority of customers are concentrated in SP state, and the ratio of sellers to customers in SP state is relatively low. Additionally, RJ and MG states are also emerging markets that attract attention. Consequently, SP, RJ, and MG are all potential markets for new sellers to explore.
+
+- Customers tend to make purchases relatively steadily throughout the month but experience a sharp decline towards the end of the month. The purchasing time increase on weekdays and a decrease on weekends and the peak purchasing time is observed between 10 am and 10 pm.
+Notably, customers tend to make more purchases on special days such as Black Friday or Cyber Monday
+
+# Recommendations:
+
+- Conducting a detailed analysis of each category is necessary to select specific products tailored for each state.
+- Monitoring delivery times closely is crucial to prevent negative ratings and enhance competitiveness by reducing delivery times.
+- Aligning marketing campaigns with periods when customers are inclined to make more purchases, especially during special occasions, is crucial. Additionally, implementing promotion programs for existing customers and attracting new ones is essential for customer retention.
 
 # Challenge:
 The challenge I faced is a lack of domain knowledge, and the dataset is too broad to analyze in order to define the main question and find key ideas to support it.
